@@ -60,6 +60,16 @@ onClick={()=> setColor("blue")}
         style={{backgroundColor:"orange"}}
       >Orange</button>
 
+<button className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
+        onClick={()=> setColor("brown")}
+        style={{backgroundColor:"brown"}}
+      >Brown</button>
+
+<button className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
+        onClick={()=> setColor("green")}
+        style={{backgroundColor:"green"}}
+      >Green</button>
+
 
       </div>
 
